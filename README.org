@@ -1,4 +1,4 @@
-* Let's install OCaml!
+* Let's install OCaml Env!
 
   This page has instructions for setting up a modern OCaml development
   environment.
